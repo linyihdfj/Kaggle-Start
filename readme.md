@@ -5,5 +5,8 @@ This is my note of Kaggle's 30 Days Of ML, a past activity in Kaggle whose goal 
 I maybe put my notes and some resources there but I think the tutorial is a the best.
 
 Schedule：
-Day 1：Getting Started With Kaggle
-Day 2：Say Hello to Python: variables, types and arithmetic operations
+
+- Day 1：Getting Started With Kaggle
+- Day 2：Say Hello to Python: variables, types and arithmetic operations
+- Day 3：Python Functions
+- Day 4：Python Booleans and Conditionals
