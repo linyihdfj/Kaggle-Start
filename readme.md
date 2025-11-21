@@ -10,3 +10,5 @@ Schedule：
 - Day 2：Say Hello to Python: variables, types and arithmetic operations
 - Day 3：Python Functions
 - Day 4：Python Booleans and Conditionals
+- Day 5, Part 1：Python Lists and Tuples
+- Day 5，Part 2：Python Loops and List Comprehension
