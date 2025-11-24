@@ -14,3 +14,4 @@ Schedule：
 - Day 5，Part 2：Python Loops and List Comprehension
 - Day 6：Python Strings and Dictionaries
 - Day 7：Working with External Libraries
+- Day 8：What is a machine learning model and what is pandas all about?
