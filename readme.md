@@ -17,3 +17,4 @@ Schedule：
 - Day 8：What is a machine learning model and what is pandas all about?
 - Day 9：First Machine Learning Model and Validation
 - Day 10：Underfitting, Overfitting & Random Forests
+- Day 11：Machine Learning Model to Predict House Prices (Intro to ML Ends)
