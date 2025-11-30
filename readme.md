@@ -18,3 +18,5 @@ Schedule：
 - Day 9：First Machine Learning Model and Validation
 - Day 10：Underfitting, Overfitting & Random Forests
 - Day 11：Machine Learning Model to Predict House Prices (Intro to ML Ends)
+- Day 12, Part 1：Handling Missing Values in Datasets (imputing missing value)
+- Day 12, Part 2: Handling Categorical Variables
